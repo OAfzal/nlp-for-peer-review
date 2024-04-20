@@ -69,3 +69,11 @@ The number of scientific articles produced every year is growing steadily, makin
 If you would like to contribute to this repository, please submit a pull request. If you have any questions, feel free to contact us.
 
 ## Citation
+
+```bibtex
+@article{abc,
+  title={Innovative Research},
+  author={abc and def},
+  journal={arXiv preprint},
+  year={2024},
+}
