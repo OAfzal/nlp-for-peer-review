@@ -71,10 +71,4 @@ If you would like to contribute to this repository, please submit a pull request
 
 ## Citation
 
-```bibtex
-@article{abc,
-  title={Innovative Research},
-  author={abc and def},
-  journal={arXiv preprint},
-  year={2024},
-}
+```Coming soon!
