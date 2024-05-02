@@ -1,30 +1,13 @@
 # nlp-for-peer-review
 
-<img src="pr_overview.png" alt="Peer Review Overview" width="400"/>
+## Datasets in Peer Review
 
-Here we compile existing Papers / Resources in NLP for Peer Review.
+In this repository, we compile existing datasets in peer review. This repository is associated with the paper ["What Can Natural Language Processing Do for Peer Review?"](https://arxiv.org/)
 
-Please refer to our paper where we provide a foundation for the future efforts in NLP for peer
-reviewing assistance. We discuss peer review as a general process, exemplified particularly by reviewing at
-AI conferences. We detail each step of the process from manuscript submission to camera-ready revision,
-and discuss the associated challenges and opportunities for NLP assistance, illustrated by existing work.
+The number of scientific articles produced every year is growing steadily, making quality control crucial for scientists and the public good. Peer review, a widely used process in which each submission is evaluated by several independent experts in the field, is hard, time-consuming, and prone to error. As the artifacts involved in peer review, such as manuscripts, reviews, and discussions, are largely text-based, natural language processing (NLP) has great potential to improve the reviewing process. However, it is essential to identify where help is needed, where NLP can assist, and where it should stand aside. The paper aims to provide a foundation for the future efforts in NLP for peer reviewing assistance. We discuss peer review as a general process, exemplified particularly by reviewing at AI conferences. We detail each step of the process from manuscript submission to camera-ready revision, and discuss the associated challenges and opportunities for NLP assistance, illustrated by existing work. This repository aims to serve as a jumping-off point for researchers with a list of available datasets and a brief summary of each.
 
-Paper: [What Can Natural Language Processing Do for Peer Review?](https://arxiv.org/)
 
-## Background
-
-The number of scientific articles produced every year is growing steadily, making quality control crucial for scientists and the public good. Peer review, a widely used process in which each submission is evaluated by several independent experts in the field, is hard, time-consuming, and prone to error. As the artifacts involved in peer review, such as manuscripts, reviews, and discussions, are largely text-based, natural language processing (NLP) has great potential to improve the reviewing process. However, it is essential to identify where help is needed, where NLP can assist, and where it should stand aside.
-
-**Disclaimer: We may miss some relevant papers in the list. If you have any suggestions or would like to add some papers, please submit a pull request or email us. Your contribution is much appreciated!**
-
-## Contents
-
-- [nlp-for-peer-review](#nlp-for-peer-review)
-  - [Background](#background)
-  - [Contents](#contents)
-    - [Resource List](#resource-list)
-  - [Contributing](#contributing)
-  - [Citation](#citation)
+**If you have any suggestions for additional datasets, please submit a pull request or email us at [osama.afzal@mbzuai.ac.ae](mailto:osama.afzal@mbzuai.ac.ae).**
 
 
 ## Resource List
@@ -60,10 +43,6 @@ The number of scientific articles produced every year is growing steadily, makin
 | 2019 | [Does my rebuttal matter?](https://aclanthology.org/N19-1129/) | [Data](https://tudatalib.ulb.tu-darmstadt.de/handle/tudatalib/2639) | Dataset of anonymized review scores before and after rebuttal from ACL 2018. |
 | 2018 | [A Dataset of Peer Reviews (PeerRead): Collection, Insights and NLP Applications](https://aclanthology.org/N18-1149/) | [Data](https://github.com/allenai/PeerRead) | One of the first datasets of peer reviews from the NLP community. |
 | 2017 | [AAMAS Bidding Data](https://preflib.simonrey.fr/dataset/00037) | [Data](https://preflib.simonrey.fr/static/data/aamas/aamas.zip) | Anonymized bidding data from the AAMAS conference. |
-
-## Contributing
-
-If you would like to contribute to this repository, please submit a pull request. If you have any questions, feel free to contact us.
 
 ## Citation
 
