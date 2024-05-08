@@ -1,5 +1,3 @@
-# nlp-for-peer-review
-
 ## Datasets in Peer Review
 
 In this repository, we compile existing datasets in peer review. This repository is associated with the paper ["What Can Natural Language Processing Do for Peer Review?"](https://arxiv.org/)
