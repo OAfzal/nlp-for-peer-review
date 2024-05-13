@@ -1,6 +1,6 @@
 ## Datasets in Peer Review
 
-In this repository, we compile existing datasets in peer review. This repository is associated with the paper ["What Can Natural Language Processing Do for Peer Review?"](https://arxiv.org/)
+In this repository, we compile existing datasets in peer review. This repository is associated with the paper ["What Can Natural Language Processing Do for Peer Review?"](https://arxiv.org/abs/2405.06563)
 
 The number of scientific articles produced every year is growing steadily, making quality control crucial for scientists and the public good. Peer review, a widely used process in which each submission is evaluated by several independent experts in the field, is hard, time-consuming, and prone to error. As the artifacts involved in peer review, such as manuscripts, reviews, and discussions, are largely text-based, natural language processing (NLP) has great potential to improve the reviewing process. However, it is essential to identify where help is needed, where NLP can assist, and where it should stand aside. The paper aims to provide a foundation for the future efforts in NLP for peer reviewing assistance. We discuss peer review as a general process, exemplified particularly by reviewing at AI conferences. We detail each step of the process from manuscript submission to camera-ready revision, and discuss the associated challenges and opportunities for NLP assistance, illustrated by existing work. This repository aims to serve as a jumping-off point for researchers with a list of available datasets and a brief summary of each.
 
@@ -44,4 +44,13 @@ The number of scientific articles produced every year is growing steadily, makin
 
 ## Citation
 
-```Coming soon!
+```bibtex
+@misc{kuznetsov2024natural,
+      title={What Can Natural Language Processing Do for Peer Review?}, 
+      author={Ilia Kuznetsov and Osama Mohammed Afzal and Koen Dercksen and Nils Dycke and Alexander Goldberg and Tom Hope and Dirk Hovy and Jonathan K. Kummerfeld and Anne Lauscher and Kevin Leyton-Brown and Sheng Lu and Mausam and Margot Mieskes and Aurélie Névéol and Danish Pruthi and Lizhen Qu and Roy Schwartz and Noah A. Smith and Thamar Solorio and Jingyan Wang and Xiaodan Zhu and Anna Rogers and Nihar B. Shah and Iryna Gurevych},
+      year={2024},
+      eprint={2405.06563},
+      archivePrefix={arXiv},
+      primaryClass={cs.CL}
+}
+```
