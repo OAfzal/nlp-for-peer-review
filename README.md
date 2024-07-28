@@ -13,7 +13,7 @@ The number of scientific articles produced every year is growing steadily, makin
 
 | Year | Title | Data URL | Summary |
 |------|-------|----------|---------|
-| 2024 | [LLMs Assist NLP Researchers: Critique Paper (Meta-)Reviewing](https://arxiv.org/pdf/2406.16253) | [Data](https://github.com/allenai/aries) | ReviewCritique combines NLP paper submissions with human and AI-generated reviews, including expert-annotated "deficiency" labels, to study LLMs as both reviewers and meta-reviewers. |
+| 2024 | [LLMs Assist NLP Researchers: Critique Paper (Meta-)Reviewing](https://arxiv.org/pdf/2406.16253) | [Data](https://arxiv.org/pdf/2406.16253) | ReviewCritique combines NLP paper submissions with human and AI-generated reviews, including expert-annotated "deficiency" labels, to study LLMs as both reviewers and meta-reviewers. |
 | 2023 | [ARIES: A Corpus of Scientific Paper Edits Made in Response to Peer Reviews](https://arxiv.org/pdf/2306.12587.pdf) | [Data](https://github.com/allenai/aries) | New small-scale corpus of peer review comments with paper edits made in response to them. |
 | 2023 | [Testing for Reviewer Anchoring in Peer Review: A Randomized Controlled Trial](https://arxiv.org/pdf/2307.05443.pdf) | [Data](https://github.com/theryanl/ReviewerAnchoring) | Controlled peer-review experiment on reviewer anchoring in rebuttals. |
 | 2023 | [Automatic Analysis of Substantiation in Scientific Peer Reviews](https://aclanthology.org/2023.findings-emnlp.684.pdf) | [Data](https://github.com/YanzhuGuo/SubstanReview) | Peer reviews with claims and associated evidences for detecting lack of substantiation. |
