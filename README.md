@@ -13,6 +13,7 @@ The number of scientific articles produced every year is growing steadily, makin
 
 | Year | Title | Data URL | Summary |
 |------|-------|----------|---------|
+| 2023 | [MOPRD: A multidisciplinary open peer review dataset](https://arxiv.org/pdf/2212.04972v2) | [Data](http://www.linjialiang.net/publications/moprd/) | Multidisciplinary open peer review dataset encompassing every stage of the process. |
 | 2023 | [ARIES: A Corpus of Scientific Paper Edits Made in Response to Peer Reviews](https://arxiv.org/pdf/2306.12587.pdf) | [Data](https://github.com/allenai/aries) | New small-scale corpus of peer review comments with paper edits made in response to them. |
 | 2023 | [Testing for Reviewer Anchoring in Peer Review: A Randomized Controlled Trial](https://arxiv.org/pdf/2307.05443.pdf) | [Data](https://github.com/theryanl/ReviewerAnchoring) | Controlled peer-review experiment on reviewer anchoring in rebuttals. |
 | 2023 | [Automatic Analysis of Substantiation in Scientific Peer Reviews](https://aclanthology.org/2023.findings-emnlp.684.pdf) | [Data](https://github.com/YanzhuGuo/SubstanReview) | Peer reviews with claims and associated evidences for detecting lack of substantiation. |
