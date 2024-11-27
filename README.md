@@ -5,7 +5,7 @@ In this repository, we compile existing datasets in peer review. This repository
 The number of scientific articles produced every year is growing steadily, making quality control crucial for scientists and the public good. Peer review, a widely used process in which each submission is evaluated by several independent experts in the field, is hard, time-consuming, and prone to error. As the artifacts involved in peer review, such as manuscripts, reviews, and discussions, are largely text-based, natural language processing (NLP) has great potential to improve the reviewing process. However, it is essential to identify where help is needed, where NLP can assist, and where it should stand aside. The paper aims to provide a foundation for the future efforts in NLP for peer reviewing assistance. We discuss peer review as a general process, exemplified particularly by reviewing at AI conferences. We detail each step of the process from manuscript submission to camera-ready revision, and discuss the associated challenges and opportunities for NLP assistance, illustrated by existing work. This repository aims to serve as a jumping-off point for researchers with a list of available datasets and a brief summary of each.
 
 
-**If you have any suggestions for additional datasets, please submit a pull request or email us at [osama.afzal@mbzuai.ac.ae](mailto:osama.afzal@mbzuai.ac.ae).**
+**If you have any suggestions for additional datasets, please submit a pull request or email us at [osama.afzal@mbzuai.ac.ae](mailto:osama.afzal97@gmail.com).**
 
 
 ## Resource List
